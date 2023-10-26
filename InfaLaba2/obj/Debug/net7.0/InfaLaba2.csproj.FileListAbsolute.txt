@@ -1,0 +1,14 @@
+C:\Users\Макс\RiderProjects\Laba2\InfaLaba2\bin\Debug\net7.0\InfaLaba2.exe
+C:\Users\Макс\RiderProjects\Laba2\InfaLaba2\bin\Debug\net7.0\InfaLaba2.deps.json
+C:\Users\Макс\RiderProjects\Laba2\InfaLaba2\bin\Debug\net7.0\InfaLaba2.runtimeconfig.json
+C:\Users\Макс\RiderProjects\Laba2\InfaLaba2\bin\Debug\net7.0\InfaLaba2.dll
+C:\Users\Макс\RiderProjects\Laba2\InfaLaba2\bin\Debug\net7.0\InfaLaba2.pdb
+C:\Users\Макс\RiderProjects\Laba2\InfaLaba2\obj\Debug\net7.0\InfaLaba2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Макс\RiderProjects\Laba2\InfaLaba2\obj\Debug\net7.0\InfaLaba2.AssemblyInfoInputs.cache
+C:\Users\Макс\RiderProjects\Laba2\InfaLaba2\obj\Debug\net7.0\InfaLaba2.AssemblyInfo.cs
+C:\Users\Макс\RiderProjects\Laba2\InfaLaba2\obj\Debug\net7.0\InfaLaba2.csproj.CoreCompileInputs.cache
+C:\Users\Макс\RiderProjects\Laba2\InfaLaba2\obj\Debug\net7.0\InfaLaba2.dll
+C:\Users\Макс\RiderProjects\Laba2\InfaLaba2\obj\Debug\net7.0\refint\InfaLaba2.dll
+C:\Users\Макс\RiderProjects\Laba2\InfaLaba2\obj\Debug\net7.0\InfaLaba2.pdb
+C:\Users\Макс\RiderProjects\Laba2\InfaLaba2\obj\Debug\net7.0\InfaLaba2.genruntimeconfig.cache
+C:\Users\Макс\RiderProjects\Laba2\InfaLaba2\obj\Debug\net7.0\ref\InfaLaba2.dll

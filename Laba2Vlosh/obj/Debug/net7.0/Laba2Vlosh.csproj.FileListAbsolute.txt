@@ -1,0 +1,14 @@
+C:\Users\Макс\RiderProjects\Laba2\Laba2Vlosh\obj\Debug\net7.0\Laba2Vlosh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Макс\RiderProjects\Laba2\Laba2Vlosh\obj\Debug\net7.0\Laba2Vlosh.AssemblyInfoInputs.cache
+C:\Users\Макс\RiderProjects\Laba2\Laba2Vlosh\obj\Debug\net7.0\Laba2Vlosh.AssemblyInfo.cs
+C:\Users\Макс\RiderProjects\Laba2\Laba2Vlosh\obj\Debug\net7.0\Laba2Vlosh.csproj.CoreCompileInputs.cache
+C:\Users\Макс\RiderProjects\Laba2\Laba2Vlosh\bin\Debug\net7.0\Laba2Vlosh.exe
+C:\Users\Макс\RiderProjects\Laba2\Laba2Vlosh\bin\Debug\net7.0\Laba2Vlosh.deps.json
+C:\Users\Макс\RiderProjects\Laba2\Laba2Vlosh\bin\Debug\net7.0\Laba2Vlosh.runtimeconfig.json
+C:\Users\Макс\RiderProjects\Laba2\Laba2Vlosh\bin\Debug\net7.0\Laba2Vlosh.dll
+C:\Users\Макс\RiderProjects\Laba2\Laba2Vlosh\bin\Debug\net7.0\Laba2Vlosh.pdb
+C:\Users\Макс\RiderProjects\Laba2\Laba2Vlosh\obj\Debug\net7.0\Laba2Vlosh.dll
+C:\Users\Макс\RiderProjects\Laba2\Laba2Vlosh\obj\Debug\net7.0\refint\Laba2Vlosh.dll
+C:\Users\Макс\RiderProjects\Laba2\Laba2Vlosh\obj\Debug\net7.0\Laba2Vlosh.pdb
+C:\Users\Макс\RiderProjects\Laba2\Laba2Vlosh\obj\Debug\net7.0\Laba2Vlosh.genruntimeconfig.cache
+C:\Users\Макс\RiderProjects\Laba2\Laba2Vlosh\obj\Debug\net7.0\ref\Laba2Vlosh.dll
